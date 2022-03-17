@@ -1,0 +1,38 @@
+.nav
+{
+ margin: 0;
+ padding: 0;
+}
+.navel
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+#el1
+{
+    border-bottom: 30px solid rgb(26, 0, 36);
+    border-left: 20px solid transparent; 
+    border-right: 20px solid transparent;
+    width: 100px;
+    height: 120px;
+    transform: rotate(90deg);
+
+}
+#el2
+{
+    border-bottom: 30px solid rgb(26, 0, 36);
+    border-left: 20px solid transparent; 
+    border-right: 20px solid transparent;
+    width: 100px;
+    height: 120px;
+    transform: rotate(90deg);
+}
+#el3
+{
+    border-bottom: 30px solid rgb(26, 0, 36);
+    border-left: 20px solid transparent; 
+    border-right: 20px solid transparent;
+    width: 100px;
+    height: 120px;
+    transform: rotate(90deg);
+}
